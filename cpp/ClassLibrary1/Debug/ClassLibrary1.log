@@ -1,0 +1,8 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  ClassLibrary1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ClassLibrary1.vcxproj -> G:\C# projects\CsharpCallCpp\cpp\ClassLibrary1\Debug\ClassLibrary1.dll
+  ClassLibrary1.vcxproj -> G:\C# projects\CsharpCallCpp\cpp\ClassLibrary1\Debug\ClassLibrary1.pdb (Partial PDB)

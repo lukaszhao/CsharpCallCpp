@@ -1,0 +1,11 @@
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\C# projects\CsharpCallCpp\csharp\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
